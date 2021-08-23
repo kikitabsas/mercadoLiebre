@@ -1,0 +1,24 @@
+body {
+    background-color: #EAC926;
+    font-family: Roboto;
+    font-size: 12px;
+}
+
+.titular {
+    font-size: 24px;
+}
+
+.precios{
+    font-size: 18px;
+}
+
+
+.descuentos{
+    font-size: 16px;
+}
+
+.descripciones{
+    font-size: 16px;
+}    
+
+
