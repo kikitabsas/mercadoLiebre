@@ -1,11 +1,26 @@
+*{
+    box-sizing: border-box;
+}
+
 body {
    
     font-family: Roboto;
     font-size: 12px;
 }
 
+header {
+    
+    background-color: #EAC926;
+}
 
+main{
+    width: 90%;
+    box-sizing: border-box;
+    margin: 0 5%;
+    padding: 0 5%;
+}
 
+/*
 .bloque1 {
     justify-content: space-around;
    align-items: center;
@@ -20,16 +35,14 @@ body {
     flex-direction: row;
 }
 
+/*
 .lista1{
     display: flex;
     justify-content: space-around;
     
 }
+*/
 
-header {
-    
-    background-color: #EAC926;
-}
 
 .titular {
     font-size: 24px;
